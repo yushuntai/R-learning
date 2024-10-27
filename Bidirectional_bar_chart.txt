@@ -1,0 +1,11 @@
+	Up	Down
+Pathway1	35	14
+Pathway2	27	10
+Pathway3	58	93
+Pathway4	24	82
+Pathway5	4	71
+Pathway6	58	79
+Pathway7	52	50
+Pathway8	96	7
+Pathway9	34	92
+Pathway10	92	33
